@@ -1,0 +1,15 @@
+# Fichiers sensibles — NE JAMAIS commiter
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
